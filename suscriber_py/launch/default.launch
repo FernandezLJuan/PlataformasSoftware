@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="suscriber_py" type="suscriber.py" name="suscriptor_basico" output="screen">
+	</node>
+</launch>
