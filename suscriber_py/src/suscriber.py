@@ -7,5 +7,5 @@ def callback(msg):
 	print msg.data
 
 rospy.init_node('suscriptor_basico')
-sub=rospy.Subscriber('/contador',Int32,callback)
+sub=rospy.Subscriber('/contaor',Int32,callback)
 rospy.spin()
