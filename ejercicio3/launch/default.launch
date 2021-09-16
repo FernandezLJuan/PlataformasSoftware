@@ -1,0 +1,6 @@
+<launch>
+	
+	<node pkg="ejercicio3" type="ejercicio3.py" name="ejercicio3" output="screen">
+	</node>
+
+</launch>
