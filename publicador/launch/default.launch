@@ -1,6 +1,6 @@
 <launch>
 
-	<node pkg="publicador" type="publicador.py" name="publicador" output="screen">
+	<node pkg="publicador" type="pub.py" name="publicador" output="screen">
 	</node>
 
 </launch>

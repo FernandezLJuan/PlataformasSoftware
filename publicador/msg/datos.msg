@@ -1,3 +1,3 @@
 int32 edad
-float64 altura
+float32 coeficiente
 string nombre
